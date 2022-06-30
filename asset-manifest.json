@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0843ece1.css",
+    "main.js": "/static/js/main.e87a4dad.js",
+    "static/js/787.a361b86b.chunk.js": "/static/js/787.a361b86b.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/KdamThmorPro-Regular.ttf": "/static/media/KdamThmorPro-Regular.e59b02a42579bc13a468.ttf",
+    "static/media/yeji05.jpg": "/static/media/yeji05.ff1c2dded0de1a4e837d.jpg",
+    "static/media/LeagueGothic-Regular-VariableFont_wdth.ttf": "/static/media/LeagueGothic-Regular-VariableFont_wdth.ff86c7db56c3af9e3b25.ttf",
+    "index.html": "/index.html",
+    "main.0843ece1.css.map": "/static/css/main.0843ece1.css.map",
+    "main.e87a4dad.js.map": "/static/js/main.e87a4dad.js.map",
+    "787.a361b86b.chunk.js.map": "/static/js/787.a361b86b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0843ece1.css",
+    "static/js/main.e87a4dad.js"
+  ]
+}
